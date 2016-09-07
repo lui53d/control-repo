@@ -7,6 +7,11 @@ mod "puppetlabs/stdlib",      '4.11.0'
 mod "puppetlabs/concat",      '2.1.0'
 mod "puppetlabs/ntp",         :latest
 mod "example42/network",      :latest
+mod "andskli/netbackup",      :latest
+mod "saz/limits",             :latest
+mod "thias/sysctl",           :latest
+mod "spiette/selinux",        :latest
+mod "puppet/archive",         :latest
 
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
